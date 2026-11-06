@@ -7,6 +7,7 @@ ResQChain helps emergency responders get critical supplies to the right place at
 Built for the **Build With AI – Google for Developers** hackathon.
 
 🌐 **Live Demo:** [resqchain-omega.vercel.app](https://resqchain-omega.vercel.app)
+<br/>
 ⚙️ **Backend API:** [resqchain-production.up.railway.app](https://resqchain-production.up.railway.app)
 
 ---
